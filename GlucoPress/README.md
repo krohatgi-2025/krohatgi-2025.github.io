@@ -131,5 +131,9 @@ Biomedical Engineering + Data Analytics
 University of Southern California  
 
 **Partners** 
-Danh (Boon) Le 
+
+Danh (Boon) Le
+
+&
+
 Mya Cohen 
