@@ -143,6 +143,10 @@ Potential extensions include:
   
 ---
 
+Access Project Here: 
+Jupyter Notebook Part 1 ('Multisensor Project Part 1.ipynb')
+
+
 ## Author
 Karishma Rohatgi  
 BS/MS Biomedical Engineering & Data Analytics  
