@@ -60,6 +60,8 @@ Methods include:
 This project highlights my ability to build interpretable medical-data classification models.
 
 **Project folder:** [Vertebral Health Classification](./ML%20Projects/Vertebral%20Health%20Classification%20Using%20Machine%20Learning/)
+
+
 ---
 ## [Multisensor Human Activity Recognition](./ML%20Projects/Multisensor%20Time%20Series%20Human%20Activity%20Recognition/)
 
