@@ -84,6 +84,41 @@ This project demonstrates full-stack ML from preprocessing to evaluation on temp
 [Multisensor Time Series Human Activity Recognition](./ML%20Projects/Multisensor%20Time%20Series%20Human%20Activity%20Recognition/)
 
 ---
+## Engineering the Gut–Brain Connection — Research Report
+*Organ-on-a-Chip Modeling of the Gut–Brain Axis*
+
+This report explores how engineering and microfluidic technologies can model the Gut–Brain Axis (GBA) more accurately than traditional animal studies or human clinical trials. It introduces Organ-on-a-Chip (OoC) systems, explains the physics behind microfluidic signaling, and analyzes next-generation multi-organ platforms (such as MINERVA) that replicate gut–brain interactions in vitro. The report also discusses applications in neurodegenerative disease research, personalized medicine, ethical advantages, and future AI-enabled chip monitoring.
+
+**Key Highlights:**
+- Overview of gut physiology, ENS, vagus nerve, and bidirectional signaling  
+- Limitations of animal models & human clinical trials  
+- OoC architecture, microfluidic flow, shear stress, and concentration gradients  
+- Multi-organ GBA chips + Alzheimer’s drug transport case study  
+- Personalized medicine (microbiome-specific drug responses)  
+- Ethical benefits: reduced animal testing and lower trial burden  
+- Future direction: AI-driven analysis of multi-organ chips  
+
+**Full Report:** [Engineering the Gut-Brain Connection](./Reports/Engineering%20the%20Gut-Brain%20Connection%20Report/)
+
+--- 
+
+## GlucoPress — Senior Design Engineering Report
+*Non-Invasive Glucose Monitoring Device (PPG + ML + Arduino)*
+
+This engineering report documents the full development of **GlucoPress**, a non-invasive glucose monitoring device built using photoplethysmography (PPG), machine-learning glucose estimation, and an LED-based alert interface. It includes problem framing, system design, CAD hardware, signal processing, ML model development, verification results, and adherence to engineering standards.
+
+**Key Highlights:**
+- Device overview, market need, and stakeholder analysis  
+- PPG-based vital sign extraction (HR, SpO₂) with signal preprocessing  
+- ML regression pipeline for glucose prediction (R² ≈ 0.86)  
+- LED alert system for hypo-/euglycemia/hyperglycemia  
+- Arduino hardware integration & full wiring diagrams  
+- CAD housing design, materials, and portability considerations  
+- Safety, regulatory strategy (FDA 510(k)), ISO 13485 alignment  
+- Verification testing + lessons learned  
+
+**Full Report:** [GlucoPress Final Report](./Reports/GlucoPress%20Final%20Report/)
+
 
 ## Contact
 Please reach out if you have questions or would like to collaborate!
