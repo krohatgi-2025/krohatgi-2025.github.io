@@ -130,3 +130,6 @@ A full demonstration of the device, its operation, and signal processing pipelin
 Biomedical Engineering + Data Analytics  
 University of Southern California  
 
+**Partners** 
+Danh (Boon) Le 
+Mya Cohen 
