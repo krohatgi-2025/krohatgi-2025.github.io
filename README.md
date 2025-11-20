@@ -98,7 +98,7 @@ This report explores how engineering and microfluidic technologies can model the
 - Ethical benefits: reduced animal testing and lower trial burden  
 - Future direction: AI-driven analysis of multi-organ chips  
 
-**Full Report:** [Engineering the Gut-Brain Connection](./Reports/Engineering%20the%20Gut-Brain%20Connection%20Report/)
+**Full Report:** [Engineering the Gut–Brain Connection Report (PDF)](./Reports/Engineering%20the%20Gut-Brain%20Connection%20Report.pdf) 
 
 --- 
 
@@ -117,7 +117,7 @@ This engineering report documents the full development of **GlucoPress**, a non-
 - Safety, regulatory strategy (FDA 510(k)), ISO 13485 alignment  
 - Verification testing + lessons learned  
 
-**Full Report:** [GlucoPress Final Report](./Reports/GlucoPress%20Final%20Report/)
+**Full Report:** [GlucoPress Final Report (PDF)](./Reports/GlucoPress%20Final%20Report.pdf)
 
 
 ## Contact
