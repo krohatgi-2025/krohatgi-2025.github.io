@@ -39,6 +39,7 @@ The work includes:
 - ROC, AUC, and recall-based evaluation  
 
 This project demonstrates advanced tabular modeling and handling of real-world data imbalance.
+
 **Project folder:** [APS Failure Data Project](./ML%20Projects/APS%20Failure%20Data%20Project/)
 
 ---
@@ -57,6 +58,7 @@ Methods include:
 - Detailed metrics: confusion matrices, precision/recall, ROC curves  
 
 This project highlights my ability to build interpretable medical-data classification models.
+
 **Project folder:** [Vertebral Health Classification](./ML%20Projects/Vertebral%20Health%20Classification%20Using%20Machine%20Learning/)
 ---
 ## [Multisensor Human Activity Recognition](./ML%20Projects/Multisensor%20Time%20Series%20Human%20Activity%20Recognition/)
