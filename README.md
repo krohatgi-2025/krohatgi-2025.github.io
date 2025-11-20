@@ -11,7 +11,7 @@ Below is a quick overview of the major projects featured on this site.
 ## [GlucoPress — Non-Invasive Blood Glucose Monitoring Device](./GlucoPress/)
 
 **GlucoPress** is a custom-built biomedical device that estimates blood glucose levels using **photoplethysmography (PPG)** instead of finger-stick measurements.  
-I designed and built the full system end-to-end, including:
+My team and I designed and built the full system end-to-end, including:
 
 - A multi-LED optical sensor (red, IR, green)  
 - Photodiode receiver + analog front-end amplification  
