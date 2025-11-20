@@ -1,7 +1,8 @@
 # krohatgi-2025.github.io
 
-Hey all! My name is **Karishma Rohatgi**, and I am an aspiring data analyst/engineer with an AI/ML focus.  
-This portfolio showcases a selection of engineering, analytics, and machine learning projects I’ve completed throughout my academic and early professional career.
+Hey all! My name is **Karishma Rohatgi**, and I am an aspiring data analyst/engineer with an AI/ML focus. I have a B.S. in Biomedical Engineering and an M.S. in Biomedical Data Analytics from the University of Southern California. 
+
+This portfolio showcases a selection of engineering, analytics, and machine learning projects I’ve completed throughout my academic and early professional career. 
 
 Below is a quick overview of the major projects featured on this site.
 
