@@ -1,13 +1,14 @@
 # krohatgi-2025.github.io
 
-Hey all! My name is **Karishma Rohatgi**, and I am an aspiring data analyst/engineer with an AI/ML focus. I have a B.S. in Biomedical Engineering and an M.S. in Biomedical Data Analytics from the University of Southern California. 
+Hey all! My name is **Karishma Rohatgi**, and I am an aspiring data analyst/engineer with an AI/ML focus.  
+This portfolio showcases a selection of engineering, analytics, and machine learning projects I’ve completed throughout my academic and early professional career.
 
-This portfolio showcases a selection of engineering, analytics, and machine learning projects I’ve completed throughout my academic and early professional career. 
+Access The Full Repository Here: 
 
 Below is a quick overview of the major projects featured on this site.
 
 ---
-
+## [GlucoPress — Non-Invasive Blood Glucose Monitoring Device](./GlucoPress/)
 ## GlucoPress — Non-Invasive Blood Glucose Monitoring Device
 **GlucoPress** is a custom-built biomedical device that estimates blood glucose levels using **photoplethysmography (PPG)** instead of finger-stick measurements.  
 I designed and built the full system end-to-end, including:
@@ -19,10 +20,13 @@ I designed and built the full system end-to-end, including:
 - Machine learning regression models for glucose estimation (Random Forest, XGBoost)
 
 The device explores whether optical changes in blood pulse signals can correlate with glucose trends.  
-A demo video of the system is available on the project page.
+
+**Demo video:** https://www.youtube.com/watch?v=ZFbn7bhbfZE
+
+ **Project folder:** [GlucoPress/](./GlucoPress/)
 
 ---
-
+## [APS Failure Prediction (Tree-Based ML Models)](./ML%20Projects/APS%20Failure%20Data%20Project/)
 ## APS Failure Prediction (Tree-Based ML Models)
 This project uses a large, highly imbalanced industrial dataset from Scania Trucks to predict rare **APS (Air Pressure System) failures**.  
 The work includes:
@@ -35,9 +39,10 @@ The work includes:
 - ROC, AUC, and recall-based evaluation  
 
 This project demonstrates advanced tabular modeling and handling of real-world data imbalance.
+**Project folder:** [APS Failure Data Project](./ML%20Projects/APS%20Failure%20Data%20Project/)
 
 ---
-
+## [Vertebral Column Classification (Multiclass ML)](./ML%20Projects/Vertebral%20Health%20Classification%20Using%20Machine%20Learning/)
 ## Vertebral Column Classification (Multiclass ML)
 Using curated biomechanical measurements from the vertebral column, this project builds multiclass classifiers to distinguish:
 
@@ -52,9 +57,9 @@ Methods include:
 - Detailed metrics: confusion matrices, precision/recall, ROC curves  
 
 This project highlights my ability to build interpretable medical-data classification models.
-
+**Project folder:** [Vertebral Health Classification](./ML%20Projects/Vertebral%20Health%20Classification%20Using%20Machine%20Learning/)
 ---
-
+## [Multisensor Human Activity Recognition](./ML%20Projects/Multisensor%20Time%20Series%20Human%20Activity%20Recognition/)
 ## Multisensor Human Activity Recognition
 This project uses **wearable sensor data** (accelerometer, gyroscope, and orientation signals) to classify human activities such as:
 
@@ -72,6 +77,9 @@ The pipeline includes:
 - Confusion matrix + ROC/AUC micro/macro evaluation  
 
 This project demonstrates full-stack ML from preprocessing to evaluation on temporal data.
+
+**Project folder:**  
+[Multisensor Time Series Human Activity Recognition](./ML%20Projects/Multisensor%20Time%20Series%20Human%20Activity%20Recognition/)
 
 ---
 
