@@ -141,11 +141,6 @@ Potential extensions include:
 - Hyperparameter tuning with Optuna
 - Transformer-based architectures for time-series data
   
----
-
-Access Project Here: 
-Jupyter Notebook Part 1 ('Multisensor Project Part 1.ipynb')
-
 
 ## Author
 Karishma Rohatgi  
