@@ -124,7 +124,7 @@ A full demonstration of the device, its operation, and signal processing pipelin
 
 ---
 
-## Author
+## Authors
 
 **Karishma Rohatgi**  
 Biomedical Engineering + Data Analytics  
