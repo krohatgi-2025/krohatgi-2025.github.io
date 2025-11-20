@@ -9,7 +9,7 @@ Below is a quick overview of the major projects featured on this site.
 
 ---
 ## [GlucoPress — Non-Invasive Blood Glucose Monitoring Device](./GlucoPress/)
-## GlucoPress — Non-Invasive Blood Glucose Monitoring Device
+
 **GlucoPress** is a custom-built biomedical device that estimates blood glucose levels using **photoplethysmography (PPG)** instead of finger-stick measurements.  
 I designed and built the full system end-to-end, including:
 
@@ -27,7 +27,7 @@ The device explores whether optical changes in blood pulse signals can correlate
 
 ---
 ## [APS Failure Prediction (Tree-Based ML Models)](./ML%20Projects/APS%20Failure%20Data%20Project/)
-## APS Failure Prediction (Tree-Based ML Models)
+
 This project uses a large, highly imbalanced industrial dataset from Scania Trucks to predict rare **APS (Air Pressure System) failures**.  
 The work includes:
 
@@ -43,7 +43,7 @@ This project demonstrates advanced tabular modeling and handling of real-world d
 
 ---
 ## [Vertebral Column Classification (Multiclass ML)](./ML%20Projects/Vertebral%20Health%20Classification%20Using%20Machine%20Learning/)
-## Vertebral Column Classification (Multiclass ML)
+
 Using curated biomechanical measurements from the vertebral column, this project builds multiclass classifiers to distinguish:
 
 - Herniated disc  
@@ -60,7 +60,7 @@ This project highlights my ability to build interpretable medical-data classific
 **Project folder:** [Vertebral Health Classification](./ML%20Projects/Vertebral%20Health%20Classification%20Using%20Machine%20Learning/)
 ---
 ## [Multisensor Human Activity Recognition](./ML%20Projects/Multisensor%20Time%20Series%20Human%20Activity%20Recognition/)
-## Multisensor Human Activity Recognition
+
 This project uses **wearable sensor data** (accelerometer, gyroscope, and orientation signals) to classify human activities such as:
 
 - Walking  
