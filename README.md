@@ -3,8 +3,6 @@
 Hey all! My name is **Karishma Rohatgi**, and I am an aspiring data analyst/engineer with an AI/ML focus.  
 This portfolio showcases a selection of engineering, analytics, and machine learning projects I’ve completed throughout my academic and early professional career.
 
-Access The Full Repository Here: 
-
 Below is a quick overview of the major projects featured on this site.
 
 ---
