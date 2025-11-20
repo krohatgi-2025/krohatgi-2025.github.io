@@ -7,7 +7,7 @@ Below is a quick overview of the major projects featured on this site.
 
 ---
 
-## 🔬 GlucoPress — Non-Invasive Blood Glucose Monitoring Device
+## GlucoPress — Non-Invasive Blood Glucose Monitoring Device
 **GlucoPress** is a custom-built biomedical device that estimates blood glucose levels using **photoplethysmography (PPG)** instead of finger-stick measurements.  
 I designed and built the full system end-to-end, including:
 
@@ -22,7 +22,7 @@ A demo video of the system is available on the project page.
 
 ---
 
-## 📊 APS Failure Prediction (Tree-Based ML Models)
+## APS Failure Prediction (Tree-Based ML Models)
 This project uses a large, highly imbalanced industrial dataset from Scania Trucks to predict rare **APS (Air Pressure System) failures**.  
 The work includes:
 
@@ -37,7 +37,7 @@ This project demonstrates advanced tabular modeling and handling of real-world d
 
 ---
 
-## 🦴 Vertebral Column Classification (Multiclass ML)
+## Vertebral Column Classification (Multiclass ML)
 Using curated biomechanical measurements from the vertebral column, this project builds multiclass classifiers to distinguish:
 
 - Herniated disc  
@@ -54,7 +54,7 @@ This project highlights my ability to build interpretable medical-data classific
 
 ---
 
-## 🏃 Multisensor Human Activity Recognition
+## Multisensor Human Activity Recognition
 This project uses **wearable sensor data** (accelerometer, gyroscope, and orientation signals) to classify human activities such as:
 
 - Walking  
@@ -74,7 +74,7 @@ This project demonstrates full-stack ML from preprocessing to evaluation on temp
 
 ---
 
-## 📬 Contact
+## Contact
 Please reach out if you have questions or would like to collaborate!
 
 **Email:** krohatgi974@gmail.com  
