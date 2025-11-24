@@ -6,6 +6,13 @@ It was developed for a healthcare-focused AI solutions company I am working with
 Hospitals and clinics typically spend hours calling multiple facilities to notify them of incoming patients — this project automates that entire workflow.
 
 ---
+## Repository 
+
+**GitHub Repository**  
+Patient-Call-Management (PCM Tool):  
+https://github.com/krohatgi-2025/Patient-Call-Management
+
+---
 
 ## Overview
 
