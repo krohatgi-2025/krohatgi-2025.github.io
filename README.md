@@ -11,6 +11,15 @@ Below is a quick overview of the major projects featured on this site.
 
 The PCM Tool (Patient Communication Management Tool) is a full-stack automation platform developed for a healthcare technology company that applies artificial intelligence to streamline operational workflows for clinical clients. The system replaces the manual, time-intensive process of calling skilled nursing facilities (SNFs) during patient transfers by using autonomous agentic AI to perform these communications reliably and at scale.
 
+## Demonstration Video
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/-apbaY2vmEs" 
+        title="Video Product Demo"
+        frameborder="0" 
+        allowfullscreen>
+</iframe>
+
 ## Project Overview
 
 The PCM Tool automates the end-to-end transfer-notification workflow used by hospitals and clinics.  
