@@ -1,4 +1,4 @@
-# Care Transfer Nexus
+# Full-Stack Patient Call Management Tool (Agentic AI Backend, React + Vite Frontend)
 
 **Care Transfer Nexus** is a full-stack, AI-driven automation tool that removes the manual burden of calling skilled nursing facilities (SNFs) during patient transfers.  
 Hospitals and clinics typically spend hours calling multiple facilities to notify them of incoming patients — this project automates that entire workflow.
