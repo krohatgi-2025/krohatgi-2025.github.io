@@ -5,7 +5,7 @@ Hospitals and clinics typically spend hours calling multiple facilities to notif
 
 ---
 
-## 🌐 Overview
+## Overview
 
 This system integrates:
 
@@ -18,14 +18,7 @@ With one click, the platform reads a clinic’s Google Sheet, triggers autonomou
 
 ---
 
-## 🧠 What “Agentic AI” Means Here
-
-The backend uses **Vogent’s agentic AI**, which behaves like an autonomous agent capable of taking actions (phone calls), interpreting call outcomes, and updating statuses.  
-This replaces the need for a human caller entirely.
-
----
-
-## 🏗️ Architecture
+## Architecture
 
 ```txt
 ┌──────────────────┐      ┌──────────────────────────┐      ┌────────────────────────┐      ┌───────────────────────────┐
