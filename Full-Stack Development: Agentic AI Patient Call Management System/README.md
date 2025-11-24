@@ -10,7 +10,7 @@ Hospitals and clinics typically spend hours calling multiple facilities to notif
 
 **GitHub Repository**  
 Patient-Call-Management (PCM Tool):  
-https://github.com/krohatgi-2025/Patient-Call-Management
+https://github.com/krohatgi-2025/Patient_Call_Management
 
 ---
 
