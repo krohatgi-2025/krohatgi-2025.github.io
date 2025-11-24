@@ -6,6 +6,48 @@ This portfolio showcases a selection of engineering, analytics, and machine lear
 Below is a quick overview of the major projects featured on this site.
 
 ---
+
+## [Full-Stack Agentic AI System](./Full-Stack%20Development:%20Agentic%20AI%20Patient%20Call%20Management%20System/README.md)
+
+The PCM Tool (Patient Communication Management Tool) is a full-stack automation platform developed for a healthcare technology company that applies artificial intelligence to streamline operational workflows for clinical clients. The system replaces the manual, time-intensive process of calling skilled nursing facilities (SNFs) during patient transfers by using autonomous agentic AI to perform these communications reliably and at scale.
+
+## Project Overview
+
+The PCM Tool automates the end-to-end transfer-notification workflow used by hospitals and clinics.  
+The platform integrates patient and facility data from an existing Google Sheet, presents this information through a structured front-end interface, and initiates an automated sequence of outbound calls to SNFs using Vogent’s agentic AI calling engine. Call outcomes are captured and surfaced to the user in real time.
+
+This system eliminates repetitive manual phone calls and significantly reduces administrative burden for clinical teams.
+
+## System Capabilities
+
+- Synchronizes patient transfer data from a clinic’s Google Sheet  
+- Provides a front-end interface for reviewing patient records and transfer details  
+- Initiates autonomous outbound calls via agentic AI  
+- Logs call outcomes such as completed, busy, failed, or no-answer  
+- Returns real-time status information to the dashboard  
+- Streamlines communication between hospitals and skilled nursing facilities  
+
+## Agentic AI Integration
+
+The backend utilizes Vogent’s agentic AI, which functions as an autonomous communication agent capable of:
+
+- Executing structured outbound phone calls  
+- Delivering consistent and accurate patient-transfer notifications  
+- Interpreting call outcomes  
+- Returning structured logs and status data to the system  
+
+This enables full automation of a previously labor-intensive communication process.
+
+## System Architecture
+
+```txt
+┌──────────────────┐      ┌──────────────────────────┐      ┌────────────────────────┐      ┌───────────────────────────┐
+│  Google Sheets   │ ───▶ │  Lovable Front-End (UI)  │ ───▶ │     API Routes         │ ───▶ │   Vogent Agentic AI Caller │
+└──────────────────┘      └──────────────────────────┘      └────────────────────────┘      └───────────────────────────┘
+         ▲                                                                                                      │
+         └───────────────────────────────  Status / Logs / Call Outcomes  ◀──────────────────────────────────────┘
+
+---
 ## [GlucoPress — Non-Invasive Blood Glucose Monitoring Device](./GlucoPress/)
 
 **GlucoPress** is a custom-built biomedical device that estimates blood glucose levels using **photoplethysmography (PPG)** instead of finger-stick measurements.  
