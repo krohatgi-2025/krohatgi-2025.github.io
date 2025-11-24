@@ -13,12 +13,7 @@ The PCM Tool (Patient Communication Management Tool) is a full-stack automation 
 
 ## Demonstration Video
 
-<iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/-apbaY2vmEs" 
-        title="Video Product Demo"
-        frameborder="0" 
-        allowfullscreen>
-</iframe>
+[![Video Demo](https://img.youtube.com/vi/-apbaY2vmEs/0.jpg)](https://youtu.be/-apbaY2vmEs)
 
 ## Project Overview
 
