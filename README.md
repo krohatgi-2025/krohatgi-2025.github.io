@@ -42,16 +42,6 @@ The backend utilizes Vogent’s agentic AI, which functions as an autonomous com
 
 This enables full automation of a previously labor-intensive communication process.
 
-## System Architecture
-
-```txt
-┌──────────────────┐      ┌──────────────────────────┐      ┌────────────────────────┐      ┌───────────────────────────┐
-│  Google Sheets   │ ───▶ │  Lovable Front-End (UI)  │ ───▶ │     API Routes         │ ───▶ │   Vogent Agentic AI Caller │
-└──────────────────┘      └──────────────────────────┘      └────────────────────────┘      └───────────────────────────┘
-         ▲                                                                                                      │
-         └───────────────────────────────  Status / Logs / Call Outcomes  ◀──────────────────────────────────────┘
-
----
 ## [GlucoPress — Non-Invasive Blood Glucose Monitoring Device](./GlucoPress/)
 
 **GlucoPress** is a custom-built biomedical device that estimates blood glucose levels using **photoplethysmography (PPG)** instead of finger-stick measurements.  
